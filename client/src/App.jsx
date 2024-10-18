@@ -1,5 +1,5 @@
-import { Routes, Route } from "react-router-dom";
-// import { BrowserRouter as Routes, Route } from 'react-router-dom';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Welcome from './pages/Welcome';
 import About from './pages/About';
 import HowToUse from './pages/HowToUse';
