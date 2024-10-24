@@ -1,3 +1,4 @@
+import React from 'react';
 import './styles.css';
 import video from '../assets/video.webm'
 
